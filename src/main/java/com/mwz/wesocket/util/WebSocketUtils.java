@@ -9,6 +9,9 @@ import javax.websocket.Session;
 /**
  * @author wzm
  * @date 2019年08月21日 17:13
+ *
+ * https://github.com/hua1995116/webchat/ 参考项目地址
+ *
  */
 public class WebSocketUtils {
 
